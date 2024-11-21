@@ -1,9 +1,10 @@
 ---
 Date: 2024-11-21
-BackLink: '[[blog/blog|blog]]'
-keys:  
+BackLink: "[[blog/blog|blog]]"
+keys: 
 path: 5. File/-
 obsidianUIMode: preview
+title: index
 ---
 %% Begin Landmark %%
 
