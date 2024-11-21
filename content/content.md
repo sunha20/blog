@@ -12,7 +12,7 @@ title: Home
 
 |TITLE|DATE|
 |---|---|
-|[[blog/content/INDEX/INDEX.md\|INDEX]]||
+|[[blog/content/INDEX~/INDEX~.md\|INDEX~]]||
 
 
 %% End Landmark %%
