@@ -6,6 +6,7 @@ path: 5. File/-
 obsidianUIMode: preview
 aliases:
   - index
+title: Home
 ---
 %% Begin Landmark %%
 
@@ -15,3 +16,4 @@ aliases:
 
 
 %% End Landmark %%
+
