@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "ildanindev.pages.dev",
-    ignorePatterns: ["private", "templates", ".obsidian", "image"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
