@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "일단은, 개발블로그⚒️",
+    pageTitle: "일단은,\n 개발블로그💻",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "ildanindev.pages.dev",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "image"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
